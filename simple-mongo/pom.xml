@@ -10,12 +10,12 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>springboot-mongo</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>1-SNAPSHOT</version>
 	<name>simple-mongo</name>
 	<description>Simple application to demonstrate spring boot with mongodb</description>
 
 	<properties>
-		<java.version>14</java.version>
+		<java.version>8</java.version>
 	</properties>
 
 	<dependencies>

@@ -10,7 +10,7 @@
 	<description>Example of Mongo DB with spring boot</description>
 
 	<modules>
-		<module>springboot-mongo</module>
-		<module>simpleMongo</module>
+		<module>reactive-mongo</module>
+		<module>simple-mongo</module>
 	</modules>
 </project>

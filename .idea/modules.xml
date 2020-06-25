@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/mongo-with-springboot.iml" filepath="$PROJECT_DIR$/mongo-with-springboot.iml" />
+      <module fileurl="file://$PROJECT_DIR$/reactive-mongo/reactive-mongo.iml" filepath="$PROJECT_DIR$/reactive-mongo/reactive-mongo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/simple-mongo/simple-mongo.iml" filepath="$PROJECT_DIR$/simple-mongo/simple-mongo.iml" />
+    </modules>
+  </component>
+</project>
