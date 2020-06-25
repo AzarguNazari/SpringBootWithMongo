@@ -1,13 +1,13 @@
-package com.example.springbootmongo.Configuration;
+package Configuration;
 
-import com.example.springbootmongo.Document.User;
-import com.example.springbootmongo.Repository.UserRepository;
+import Document.User;
+import Repository.UserRepository;
 import org.springframework.boot.CommandLineRunner;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 import org.springframework.data.mongodb.repository.config.EnableMongoRepositories;
 
-@EnableMongoRepositories(basePackageClasses = UserRepository.class)
+@EnableMongoRepositories(basePackages={"Repository"})
 @Configuration
 public class MongoDBConfig {
 

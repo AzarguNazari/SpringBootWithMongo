@@ -1,7 +1,7 @@
-package com.example.springbootmongo.Resources;
+package Resources;
 
-import com.example.springbootmongo.Document.User;
-import com.example.springbootmongo.Repository.UserRepository;
+import Document.User;
+import Repository.UserRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestMapping;
