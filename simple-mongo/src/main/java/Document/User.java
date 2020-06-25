@@ -1,4 +1,4 @@
-package com.example.springbootmongo.Document;
+package Document;
 
 import lombok.Data;
 import org.springframework.data.annotation.Id;
